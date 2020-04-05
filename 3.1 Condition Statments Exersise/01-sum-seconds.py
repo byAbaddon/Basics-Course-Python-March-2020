@@ -12,7 +12,6 @@ delta = timedelta( seconds = result)
 print(str(delta)[slice(3, 10)])
 
 
-# 35, 45, 44
+# 35, 45, 44 
 # 22, 7, 34
 # 50, 50, 49
-
